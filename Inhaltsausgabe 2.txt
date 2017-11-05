@@ -1,0 +1,24 @@
+Paper 3: "Impact of annotation error in a-globin genes on molecular diagnosis."
+
+Inhalt: 
+In this paper, the authors examine the discrepancy between the varying identification results of the alpha-globin gene 
+derived from different analysis tools (Variobox, MAFFT and Mutation Surveyor) and thus encourages that they are used with 
+a certain amount of caution.
+
+
+Paper 4: "An optimized approach for annotation of large eukaryotic genomic sequences using genetic algorithm"
+
+Inhalt:
+
+This paper is addressing the issue with the computational complexity of DNA annotation and therefore introducing
+the Gene Prediction with Genetic Algorithm (GPGA), which offers an improvement of genetic prediction
+computations by providing methods where the search is applied on each exon individually. This algorithm was used
+on both human and mouse genetic material and proved to be more accurate than other techniques.  
+
+Paper 5: "Annotation and Presentation Systems for Arabidopsis Genome Sequencing Project at Kazusa DNA Research Institute"
+
+Inhalt:
+The focus of this paper is on the genome of the plant species Ambidopsis thaliana. Its sequencing and annotation took place
+at the Kazusa DNA Research Institute in Japan. This was achieved with the help of the BLAST2 program and the GenBank database among
+other tools. As a result, a website KAOS (Kazusa Arabidopsis data Opening Site) was developed with the purpose of providing
+free access to the sequenced data.

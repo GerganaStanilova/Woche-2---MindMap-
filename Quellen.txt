@@ -1,0 +1,11 @@
+Suchanfrage: "dna annotation"
+
+PubMed:
+	Paper 3: "Impact of annotation error in a-globin genes on molecular diagnosis."
+	
+Sparrho:
+	Paper 4: "An optimized approach for annotation of large eukaryotic genomic sequences using genetic algorithm"
+
+WorldWideScience:
+
+	Paper 5: "Annotation and Presentation Systems for Arabidopsis Genome Sequencing Project at Kazusa DNA Research Institute"

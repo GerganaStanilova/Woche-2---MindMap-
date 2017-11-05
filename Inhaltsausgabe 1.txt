@@ -1,0 +1,16 @@
+Paper 1: "Software for Computing and Annotating Genomic Ranges"
+
+Inhalt: 
+The main topic of this paper is the description of Bioconductor infrastructure with the focus on DNA annotation. 
+In general, it emphasized the importance of ranges on the genome in manipulating gene model annotations, 
+as well as on read alignments, detecting overlaps and calculating coverage vectors. Furthermore, different data structures are
+examined supporting crucial functions such as the representation of metadata storage and of hierarchical structures among others.  
+
+Paper 2: "A Pipeline for Insertion Sequence Detection and Study for Bacterial Genome"
+
+Inhalt:
+The authors of this paper have developed a new design for detecting and classifying insertion sequences (ISs) using a pipeline which
+improves on some of the current annotation methods in the aspects of overlapping and consensus problems.
+This task was achieved by implementing tools such as OASIS and ISFinder. This new pipeline method was then applied on a set of
+23 complete genomes of a bacterial species and some important conclusions were derived from this test based on the IS families
+and groups.

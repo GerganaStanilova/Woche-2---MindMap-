@@ -1,0 +1,8 @@
+DNA annotation
+
+The process of finding and identifying genes in a genome.
+To a large extent, it uses the computational power of sequencing algorithms and analysis tools as well as 
+biological databases to achieve these tasks. 
+DNA annotation can be structural, when it is relating to genomic elements such as ORFs, coding regions and regulary motifs,
+or funtional, when it determines the function of the genomic elements.
+
